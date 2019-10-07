@@ -1,5 +1,19 @@
 # webdev-myWebsiteClone
 
+
+
+## Instructions:
+- Pick a website you are interested in cloning.
+- Get it approved by Teacher
+- Fork webdev-myWebsiteClone 
+- Open in VS Code
+- Create an images/assets folder to store all your content 
+- Open Google Developers tool -> Network tab -> filter by images ( Dont forget to refresh the page ) 
+
+
+
+
+
 ## Rubric
 
 || Not evident at all (1) | Evident with a few errors (2) | Evident (3) | Proficient and went above and beyond (4) |
