@@ -7,7 +7,7 @@
 |Effort|||||
 |HTML Content|||||
 |CSS Styling|||||
-|Formating|||||
+|Commenting|||||
 |Point Deduction|||||
 
 
