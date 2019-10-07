@@ -2,7 +2,7 @@
 
 ## Rubric
 
-|| Not evident at all (1) | Evident but did just what was necessary (2) | Evident (3) | Proficient and went above and beyond (4) |
+|| Not evident at all (1) | Evident with a few errors (2) | Evident (3) | Proficient and went above and beyond (4) |
 |-----|----|----|----|-----|
 |Effort|||||
 |HTML Content|||||
