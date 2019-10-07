@@ -1,5 +1,18 @@
 # webdev-myWebsiteClone
 
+## Rubric
+
+|| Not evident at all (1) | Evident but did just what was necessary (2) | Evident (3) | Proficient and went above and beyond (4) |
+|-----|----|----|----|-----|
+|Effort|||||
+|HTML Content|||||
+|CSS Styling|||||
+|Formating|||||
+|Point Deduction|||||
+
+
+
+
 ### PRESENTATION REQUIREMENTS
 
 3-5 Minute Presentation 
