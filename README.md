@@ -21,7 +21,7 @@
 |Effort|||||
 |HTML Content|||||
 |CSS Styling|||||
-|Commenting|||||
+|Variable naming/Commenting|||||
 |||||
 |Presentation||||
 
